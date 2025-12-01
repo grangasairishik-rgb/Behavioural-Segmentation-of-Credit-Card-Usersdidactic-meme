@@ -6,7 +6,7 @@ To identify meaningful customer segments based on credit-card usage and engageme
 The dataset contains 660 credit-card customers with behavioral and financial attributes such as average credit limit, number of credit cards, bank visits, online visits, and call activity. Identifier fields were removed, and the remaining numerical features were used to analyze customer engagement patterns and segment users effectively.
 - <a href="https://github.com/grangasairishik-rgb/Behavioural-Segmentation-of-Credit-Card-Usersdidactic-meme/blob/main/CreditCardUsersDataSet.xlsx"> Dataset </a>
 # Process :
-1.Loaded and cleaned the dataset, removed ID columns, and selected only useful numerical features for clustering.
+1.Loaded and cleaned the dataset, removed ID columns, and selected only useful numerical features for clustering.<br>
 2.Standardized all features using StandardScaler to ensure fair distance calculations for K-Means.
 3.Evaluated different K values (2–10) using the Elbow Method and Silhouette Score to find the optimal number of clusters.
 4.Applied K-Means with K = 3, assigned each customer a cluster label, and saved the output with cluster IDs.
