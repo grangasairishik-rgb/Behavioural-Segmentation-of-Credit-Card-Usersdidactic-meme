@@ -16,3 +16,13 @@ The dataset contains 660 credit-card customers with behavioral and financial att
 # CLUSTERING APPROACH (K-MEANS) :
 K-Means clustering was used to group customers based on their credit-card usage and engagement behavior. After scaling the features, the optimal number of clusters was identified using the Elbow Method and Silhouette Score, both indicating K = 3. The final model assigned each customer to one of the three segments, which were later analyzed using PCA visualization and cluster profiling.
 <img width="1472" height="734" src="https://github.com/grangasairishik-rgb/Behavioural-Segmentation-of-Credit-Card-Usersdidactic-meme/blob/main/results_elbow_silhouette.png" />
+#INSIGHTS AND FINDINGS : 
+• Cluster 0: <br>
+Customers with moderate credit limits and low engagement across visits and 
+calls. They are stable but passive users. <br>
+• Cluster 1:<br>
+Customers showing high online activity and frequent calls despite having mid
+range credit limits. They are digitally active and more service-dependent. <br>
+• Cluster 2: <br>
+Customers with high credit limits and strong multi-channel engagement (bank 
+visits, online usage, calls). These are high-value and highly active users.<br>
