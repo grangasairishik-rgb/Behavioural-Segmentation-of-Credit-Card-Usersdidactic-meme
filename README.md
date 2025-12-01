@@ -26,6 +26,5 @@ range credit limits. They are digitally active and more service-dependent. <br>
 • Cluster 2: <br>
 Customers with high credit limits and strong multi-channel engagement (bank 
 visits, online usage, calls). These are high-value and highly active users.<br>
-- <a href="">  </a>
-- <a href=""> </a>
-- <a href="">  </a>
+- <a href="https://github.com/grangasairishik-rgb/Behavioural-Segmentation-of-Credit-Card-Usersdidactic-meme/blob/main/results_pca_scatter.png">ClusterImage1</a>
+- <a href="https://github.com/grangasairishik-rgb/Behavioural-Segmentation-of-Credit-Card-Usersdidactic-meme/blob/main/results_silhouette_k3.png">ClusterImage2</a>
