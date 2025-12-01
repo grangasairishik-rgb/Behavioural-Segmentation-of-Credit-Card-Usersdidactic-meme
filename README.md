@@ -1,4 +1,4 @@
-# Behavioural-Segmentation-of-Credit-Card-Usersdidactic-meme
+# Behavioural-Segmentation-of-Credit-Card-Usersdidactic-meme :
 Machine learning–based customer segmentation using K-Means to analyze credit-card usage and engagement patterns. Includes data preprocessing, EDA, optimal cluster selection, PCA visualization, and actionable customer insights.
 # Objective :
 To identify meaningful customer segments based on credit-card usage and engagement behavior using K-Means clustering, enabling targeted marketing, improved customer understanding, and data-driven decision-making.
@@ -29,3 +29,5 @@ Customers with high credit limits and strong multi-channel engagement (bank
 visits, online usage, calls). These are high-value and highly active users.<br>
 - <a href="https://github.com/grangasairishik-rgb/Behavioural-Segmentation-of-Credit-Card-Usersdidactic-meme/blob/main/results_pca_scatter.png">ClusterImage1</a>
 - <a href="https://github.com/grangasairishik-rgb/Behavioural-Segmentation-of-Credit-Card-Usersdidactic-meme/blob/main/results_silhouette_k3.png">ClusterImage2</a>
+# Conclusion:
+The project successfully segmented customers into three distinct groups using K-Means clustering, revealing clear differences in credit limits, card usage, and engagement behaviors. These insights provide a strong foundation for targeted marketing and improved service strategies. Overall, the clustering approach helped transform raw customer data into meaningful patterns that support data-driven decision-making.
